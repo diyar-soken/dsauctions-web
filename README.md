@@ -43,5 +43,5 @@ Segui questi passaggi per configurare ed eseguire il progetto localmente tramite
 Clona il repository nella cartella pubblica del tuo server locale (es. `htdocs` per XAMPP):
 
 ```bash
-git clone [https://github.com/tuo-username/DSAuctions.git](https://github.com/tuo-username/DSAuctions.git)
+git clone [https://github.com/diyar-soken/DSAuctions.git](https://github.com/diyar-soken/DSAuctions.git)
 cd DSAuctions
