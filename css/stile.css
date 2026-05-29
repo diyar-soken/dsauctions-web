@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Nunito:wght@400;600;700&display=swap');
+
+body{
+    font-family:'Nunito', Arial, sans-serif;
+    color:#202a36;
+}
+
+h1, h2, h3, .navbar-brand{
+    font-family:'Montserrat', Arial, sans-serif;
+}
+
+.navbar-brand{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    font-weight:700;
+}
+
+.logo-navbar{
+    width:120px;
+    height:35px;
+    object-fit:cover;
+    border-radius:14px;
+}
+
+.hero-box{
+    background:linear-gradient(135deg,#ffffff,#eef4fb);
+}
+
+.card-img-top{
+    background-color:#e9ecef;
+}
+
+.titolo-sezione{
+    color:#173a5e;
+    font-weight:700;
+}
+
+.testo-morbido{
+    color:#5c6875;
+}
+
+.prezzo{
+    color:#0b5ed7;
+    font-weight:700;
+}
